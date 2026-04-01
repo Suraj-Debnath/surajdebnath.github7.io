@@ -65,7 +65,7 @@ img{
 
 @media(max-width:700px){
     .box{
-        height: 260px;
+        height: 282px;
         width: 200px;
         box-shadow: 0px 0px 80px black;
         border: 2px solid #ddd;
